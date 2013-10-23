@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <!--测试环境：test  
+        发布环境：release -->
+    <configFile>dev</configFile>
+    
+    
+    <!--输出debug日志   1 
+        不输出debug日志  0 -->
+    <outputAllLogs>1</outputAllLogs>
+    
+</root> 

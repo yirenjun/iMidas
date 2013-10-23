@@ -1,0 +1,14 @@
+PODS:
+  - iMidas (1.0.2)
+
+DEPENDENCIES:
+  - iMidas (from `../`)
+
+EXTERNAL SOURCES:
+  iMidas:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iMidas: 2f64f6c24886ac3a4f855d836095e95e47ba1659
+
+COCOAPODS: 0.26.2
